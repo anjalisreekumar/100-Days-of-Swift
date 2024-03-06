@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Project2
 //
-//  Created by Bridge on 15/02/24.
+
 //
 
 import UIKit
